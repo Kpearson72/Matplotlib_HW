@@ -3,11 +3,11 @@
 
 ### Challenge Taken!
 
-As a senior data anaylist who works for a pharmaceutical company called Pymaceuticals, I've been given access to data from a drug regimen animal study. Pymaceuticals, specicializes in anti_cancer pharmaceuticals. The scientists in the company attempt to delvelope a drug that will treat a type of skin cancer called squamous cell carcinoma (SCC).
+As a senior data anaylist who works for a pharmaceutical company called Pymaceuticals, I've been given access to data from a drug regimen animal study. Pymaceuticals, specializes in anti-cancer pharmaceuticals. The scientists in the company attempt to develope a drug that will treat a type of skin cancer called squamous cell carcinoma (SCC).
 
 There were 249 mice that were tested for 10 types of drug regimens in a 45 day period. 
 
-As a data analyist I was tasked to collect the data and generate tables and charts for a technical report of the study. This report, also needed to have a high-level summary of the results. [Link to my Jupter Notebook results](https://github.com/Kpearson72/Matplotlib_HW/blob/main/Matplotlib/Pymaceuticals/pymaceuticals_starter.ipynb)
+As a data analyist I was tasked to collect the data, generate tables and charts for a technical report of the study. This report, also needed to have a high-level summary of the results. [Link to my Jupter Notebook results](https://github.com/Kpearson72/Matplotlib_HW/blob/main/Matplotlib/Pymaceuticals/pymaceuticals_starter.ipynb)
 
 ![Laboratory](Matplotlib/Images/Laboratory.jpg)
 
@@ -15,7 +15,7 @@ Tasks:
 
 * Before beginning the analysis, I checked the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 
-* Use the cleaned data for the remaining steps.
+* I used the cleaned data for the remaining steps.
 
 * Generated a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
